@@ -1,3 +1,4 @@
 # WSC-Data-drawing-system
 
-![image](https://github.com/user-attachments/assets/501a9862-6e84-4f9a-9adf-8d23908a61ee)
+文件夹中包含以下文件：
+![image](https://github.com/user-attachments/assets/acd83397-eab2-4524-8deb-bcf09292d8f8)
